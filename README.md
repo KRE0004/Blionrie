@@ -1,4 +1,5 @@
-<meta url = https://blionrie.me" /> 
+<meta http-equiv="refresh" 
+          content="0; url = https://blionrie.me" /> 
 <div style="display: block; margin: 0 auto; text-align: center;">
     <p><img src="https://media2.giphy.com/media/mq5y2jHRCAqMo/giphy.gif" alt="Page Not Found" style="max-width: 100%; height: auto;"></p>
     <h2 style="color: #333;">Looking For Blionrie Portfolio</h2>
